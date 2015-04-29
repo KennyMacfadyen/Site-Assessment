@@ -1,14 +1,30 @@
+
+
+A dc.js visualisation.
+=============
+
+
+For those who want to learn, good tutorials here:
+
+https://becomingadatascientist.wordpress.com/tag/dc-js/
+
+http://www.d3noob.org/2013/07/introduction-to-dcjs.html
+
+http://blog.rusty.io/2012/09/17/crossfilter-tutorial/
+
+and Library reference here:
+
+https://github.com/NickQiZhu/dc.js/wiki
+
+
 dc.leaflet.js
 =============
-This extension provides support for DC.js charts in a Leaflet.js map.
+dc.leaflet.jsis the extension that provides support for DC.js charts in a Leaflet.js map.
 
-Demo
-=============
 Examples can be found here:
 [http://opendata.yurukov.net/demo/dcjs_leaflet/](http://opendata.yurukov.net/demo/dcjs_leaflet/)
 
-Requirements
-=============
+
 *  [dc.js](https://github.com/dc-js/dc.js) 1.7.0 ([crossfilter.js](https://github.com/square/crossfilter) 1.3.7 & [d3.js](https://github.com/mbostock/d3) 3.4.8)
 *  [leaflet.js](https://github.com/Leaflet/Leaflet) 0.7.2
 *  [leaflet.markercluster.js](https://github.com/Leaflet/Leaflet.markercluster) 0.4.0 (in case you use the cluster option)
